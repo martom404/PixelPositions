@@ -11,10 +11,13 @@
   :root {
     --font-sans: 'Hanken Grotesk', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
       'Segoe UI Symbol', 'Noto Color Emoji';
-    --font-size: 5;
+
 
   }
 
+  .text-2xs {
+    font-size: .625rem;
+  }
 
   /* Nadpisanie klas Tailwinda */
   .text-black {
